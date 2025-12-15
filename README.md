@@ -87,10 +87,7 @@ Dashboard Rendering
 ## 🎬 Demo
 
 **LinkedIn Demo Video**  
-👉 ADD_YOUR_LINKEDIN_DEMO_LINK_HERE  
-
-**GitHub Repository**  
-👉 ADD_YOUR_GITHUB_REPO_LINK_HERE  
+👉 [DEMO LINK ](https://www.linkedin.com/posts/satyanarayanagattu_oasisinfobyte-oibsip-pythonprojects-activity-7406315001898164224-AerU?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAF0JdNsB3Io7VkJeSkm-xsczfF3Y_GX3lSA)  
 
 ---
 
